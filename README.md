@@ -1,6 +1,6 @@
 # 🛍️ Myntra Functional Clone
 
-![Myntra Clone]('\images\homepage.png')
+![Myntra Clone]('11 Template Myntra Functional Clone\images\homepage.png')
 
 A fully functional clone of **Myntra**, India's leading fashion e-commerce platform. This project is developed using **HTML**, **CSS**, and **JavaScript**, focusing on replicating the UI/UX and integrating interactive features like adding items to the cart, managing a shopping bag, and generating a price summary.
 
